@@ -4,6 +4,6 @@
     "paths": {
       "@/*": ["./*"]
     }
-  }
+  },
+  "forceDeploy": true
 }
-  
